@@ -4,8 +4,8 @@
 
 I build machine learning systems that people can actually trust and use: explainable models, reproducible pipelines, and the data engineering underneath them. My work spans computer vision, recommender systems, MLOps, and data warehousing, and I like shipping things end to end, from raw data to a running app.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-dsouza-data2002/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ryanallandsouza@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=react&logoColor=61DAFB)](ryandotcom.vercel.app)
 
 ---
